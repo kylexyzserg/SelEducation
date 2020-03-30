@@ -1,0 +1,3 @@
+{
+  "startUrl": "http://{0}:{1}@httpbin.org/basic-auth/user/passwd"
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nunit.Aquality.BasicAuthorizationTesting", "Nunit.Aquality.Template\Nunit.Aquality.BasicAuthorizationTesting.csproj", "{20B46441-0228-421F-A2FA-8D9CEDD57EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20B46441-0228-421F-A2FA-8D9CEDD57EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B46441-0228-421F-A2FA-8D9CEDD57EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B46441-0228-421F-A2FA-8D9CEDD57EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B46441-0228-421F-A2FA-8D9CEDD57EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECFB51BC-E00F-4426-B851-32207BCA60BF}
+	EndGlobalSection
+EndGlobal
